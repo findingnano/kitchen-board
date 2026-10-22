@@ -1,0 +1,808 @@
+{
+  "week_of": "2026-09-28",
+  "through": "2026-10-11",
+  "source": "Health Bot emails, Sep 28 through Oct 11 2026",
+  "days": [
+    {
+      "date": "2026-09-28",
+      "weekday": "Monday",
+      "breakfast": {
+        "name": "Overnight oats with protein",
+        "minutes": 5,
+        "serves": 2,
+        "ingredients": [
+          "1 cup rolled oats",
+          "2 cups unsweetened almond milk",
+          "1\u20132 scoops protein powder, or 1/2 cup Greek yogurt in the morning",
+          "Cinnamon",
+          "Berries"
+        ],
+        "steps": [
+          "Divide oats, milk, and protein into 2 jars the night before.",
+          "Refrigerate overnight.",
+          "Stir and top with cinnamon and berries when you eat."
+        ]
+      },
+      "lunch": {
+        "name": "Berry spinach protein smoothie",
+        "minutes": 5,
+        "serves": 2,
+        "ingredients": [
+          "2 cups frozen mixed berries",
+          "2 large handfuls spinach",
+          "1\u20131.5 cups plain Greek yogurt, or 2 scoops protein powder",
+          "1.5\u20132 cups unsweetened almond milk",
+          "2 tbsp almond butter or ground flax",
+          "Optional: 1/2 banana, cinnamon, ice"
+        ],
+        "steps": [
+          "Add everything to the blender, one batch per person if the blender is small.",
+          "Blend until smooth, thinning with more almond milk to taste."
+        ]
+      },
+      "dinner": {
+        "name": "Sheet-pan cod, asparagus and tomatoes",
+        "minutes": 25,
+        "serves": 2,
+        "ingredients": [
+          "2 cod fillets (haddock or tilapia is fine)",
+          "1 bunch asparagus, trimmed",
+          "1 pint cherry tomatoes",
+          "2 tbsp olive oil",
+          "Salt, pepper, garlic powder",
+          "1 lemon"
+        ],
+        "steps": [
+          "Heat oven to 425\u00b0F and line a sheet pan.",
+          "Toss asparagus and tomatoes with 1 tbsp oil, salt, and pepper, and roast 8 minutes.",
+          "Pat fish dry, rub with remaining oil and seasoning, and nestle on the pan with lemon slices.",
+          "Roast 10\u201312 minutes more, until the fish flakes.",
+          "Squeeze the remaining lemon over before serving."
+        ]
+      }
+    },
+    {
+      "date": "2026-09-29",
+      "weekday": "Tuesday",
+      "breakfast": {
+        "name": "Cottage cheese and berries",
+        "minutes": 5,
+        "serves": 2,
+        "ingredients": [
+          "2 cups low-fat cottage cheese",
+          "1\u20132 cups berries",
+          "2 tbsp walnuts or sliced almonds"
+        ],
+        "steps": [
+          "Scoop cottage cheese into bowls.",
+          "Top with berries and nuts."
+        ]
+      },
+      "lunch": {
+        "name": "Berry spinach protein smoothie",
+        "minutes": 5,
+        "serves": 2,
+        "ingredients": [
+          "2 cups frozen mixed berries",
+          "2 large handfuls spinach",
+          "1\u20131.5 cups plain Greek yogurt, or 2 scoops protein powder",
+          "1.5\u20132 cups unsweetened almond milk",
+          "2 tbsp almond butter or ground flax",
+          "Optional: 1/2 banana, cinnamon, ice"
+        ],
+        "steps": [
+          "Add everything to the blender.",
+          "Blend until smooth, thinning with more almond milk to taste."
+        ]
+      },
+      "dinner": {
+        "name": "Turkey and zucchini skillet",
+        "minutes": 25,
+        "serves": 2,
+        "ingredients": [
+          "1 lb ground turkey",
+          "2 zucchini, diced",
+          "1 bell pepper, diced",
+          "1/2 onion, diced",
+          "2 tbsp olive oil",
+          "Salt, pepper, garlic powder, cumin, paprika",
+          "Optional: a handful of spinach"
+        ],
+        "steps": [
+          "Cook turkey in 1 tbsp oil with salt, pepper, cumin, and paprika until no pink remains.",
+          "Transfer to a plate.",
+          "Saut\u00e9 onion and pepper in the remaining oil for 3\u20134 minutes.",
+          "Add zucchini and cook 4\u20135 minutes until tender-crisp.",
+          "Return the turkey, toss, and wilt in spinach if using."
+        ]
+      }
+    },
+    {
+      "date": "2026-09-30",
+      "weekday": "Wednesday",
+      "breakfast": {
+        "name": "Spinach scramble and fruit",
+        "minutes": 12,
+        "serves": 2,
+        "ingredients": [
+          "4 eggs",
+          "Splash of almond milk",
+          "A big handful of spinach",
+          "1/2 cup cherry tomatoes, halved",
+          "2 green onions, sliced",
+          "Olive oil",
+          "Salt and pepper",
+          "Orange or apple on the side"
+        ],
+        "steps": [
+          "Whisk eggs with almond milk, salt, and pepper.",
+          "Saut\u00e9 spinach and tomatoes in a little olive oil for 1\u20132 minutes.",
+          "Pour the eggs over and scramble gently until just set.",
+          "Serve with fruit on the side."
+        ]
+      },
+      "lunch": {
+        "name": "Berry spinach protein smoothie",
+        "minutes": 5,
+        "serves": 2,
+        "ingredients": [
+          "2 cups frozen mixed berries",
+          "2 large handfuls spinach",
+          "1\u20131.5 cups plain Greek yogurt, or 2 scoops protein powder",
+          "1.5\u20132 cups unsweetened almond milk",
+          "2 tbsp almond butter or ground flax"
+        ],
+        "steps": [
+          "Add everything to the blender.",
+          "Blend until smooth, thinning with more almond milk to taste."
+        ]
+      },
+      "dinner": {
+        "name": "Dijon chicken thighs and broccoli",
+        "minutes": 30,
+        "serves": 2,
+        "ingredients": [
+          "4 boneless chicken thighs",
+          "1 large head broccoli, florets",
+          "2 tbsp olive oil",
+          "Salt, pepper, garlic powder",
+          "1 tbsp Dijon mustard",
+          "1 tsp lemon juice"
+        ],
+        "steps": [
+          "Heat oven to 425\u00b0F and line a sheet pan.",
+          "Toss broccoli with 1 tbsp oil, salt, and pepper and spread on the pan.",
+          "Pat thighs dry, brush with Dijon and lemon, and season.",
+          "Nestle the chicken on the pan.",
+          "Roast 22\u201328 minutes, until the chicken reaches 165\u00b0F and the broccoli is browned."
+        ]
+      }
+    },
+    {
+      "date": "2026-10-01",
+      "weekday": "Thursday",
+      "breakfast": {
+        "name": "Cottage cheese and berries",
+        "minutes": 5,
+        "serves": 2,
+        "ingredients": [
+          "2 cups low-fat cottage cheese",
+          "1\u20132 cups berries",
+          "2 tbsp walnuts or sliced almonds"
+        ],
+        "steps": [
+          "Scoop cottage cheese into bowls.",
+          "Top with berries and nuts."
+        ]
+      },
+      "lunch": {
+        "name": "Berry spinach protein smoothie",
+        "minutes": 5,
+        "serves": 2,
+        "ingredients": [
+          "2 cups frozen mixed berries",
+          "2 large handfuls spinach",
+          "1\u20131.5 cups plain Greek yogurt, or 2 scoops protein powder",
+          "1.5\u20132 cups unsweetened almond milk",
+          "2 tbsp almond butter or ground flax"
+        ],
+        "steps": [
+          "Add everything to the blender.",
+          "Blend until smooth, thinning with more almond milk to taste."
+        ]
+      },
+      "dinner": {
+        "name": "Chicken sausage, peppers and onions",
+        "minutes": 20,
+        "serves": 2,
+        "ingredients": [
+          "4 chicken or turkey sausage links",
+          "2\u20133 bell peppers, sliced",
+          "1 onion, sliced",
+          "1 tbsp olive oil",
+          "Salt, pepper, Italian seasoning",
+          "Mixed greens, olive oil, and lemon"
+        ],
+        "steps": [
+          "Brown the sausages in oil, 2\u20133 minutes per side.",
+          "Remove and slice into coins.",
+          "Cook peppers and onion 6\u20138 minutes until soft and slightly charred.",
+          "Return the sausage and toss 1\u20132 minutes.",
+          "Serve with dressed greens."
+        ]
+      }
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "Friday",
+      "breakfast": {
+        "name": "Spinach scramble and fruit",
+        "minutes": 12,
+        "serves": 2,
+        "ingredients": [
+          "4 eggs",
+          "Splash of almond milk",
+          "A big handful of spinach",
+          "1/2 cup cherry tomatoes, halved",
+          "2 green onions, sliced",
+          "Olive oil",
+          "Salt and pepper",
+          "Orange or apple on the side"
+        ],
+        "steps": [
+          "Whisk eggs with almond milk, salt, and pepper.",
+          "Saut\u00e9 spinach and tomatoes in a little olive oil for 1\u20132 minutes.",
+          "Pour the eggs over and scramble gently until just set.",
+          "Serve with fruit on the side."
+        ]
+      },
+      "lunch": {
+        "name": "Berry spinach protein smoothie",
+        "minutes": 5,
+        "serves": 2,
+        "ingredients": [
+          "2 cups frozen mixed berries",
+          "2 large handfuls spinach",
+          "1\u20131.5 cups plain Greek yogurt, or 2 scoops protein powder",
+          "1.5\u20132 cups unsweetened almond milk",
+          "2 tbsp almond butter or ground flax"
+        ],
+        "steps": [
+          "Add everything to the blender.",
+          "Blend until smooth, thinning with more almond milk to taste."
+        ]
+      },
+      "dinner": {
+        "name": "Flank steak fajita bowl",
+        "minutes": 25,
+        "serves": 2,
+        "ingredients": [
+          "1 lb flank steak or sirloin strips",
+          "2 bell peppers, sliced",
+          "1 onion, sliced",
+          "2 tbsp olive oil",
+          "Salt, pepper, cumin, chili powder",
+          "4 cups shredded lettuce or mixed greens",
+          "Lime wedges"
+        ],
+        "steps": [
+          "Season the steak and rest it 5 minutes while you slice the vegetables.",
+          "Sear in 1 tbsp oil over high heat, 3\u20134 minutes per side for medium.",
+          "Rest 5 minutes, then slice thin against the grain.",
+          "Cook peppers and onion in the remaining oil for 5\u20137 minutes.",
+          "Pile greens in bowls, top with steak and vegetables, and squeeze lime over."
+        ]
+      }
+    },
+    {
+      "date": "2026-10-03",
+      "weekday": "Saturday",
+      "breakfast": {
+        "name": "Cottage cheese and berries",
+        "minutes": 5,
+        "serves": 2,
+        "ingredients": [
+          "2 cups low-fat cottage cheese",
+          "1\u20132 cups berries",
+          "2 tbsp walnuts or sliced almonds"
+        ],
+        "steps": [
+          "Scoop cottage cheese into bowls.",
+          "Top with berries and nuts."
+        ]
+      },
+      "lunch": {
+        "name": "Leftovers from this week's dinners",
+        "minutes": 10,
+        "serves": 2,
+        "ingredients": [
+          "Any leftovers from this week's dinners"
+        ],
+        "steps": [
+          "Reheat or plate leftovers from earlier in the week.",
+          "The emailed plan does not set a separate weekend lunch."
+        ]
+      },
+      "dinner": {
+        "name": "Baked salmon, green beans and cucumber",
+        "minutes": 25,
+        "serves": 2,
+        "ingredients": [
+          "2 salmon fillets",
+          "12 oz green beans, trimmed",
+          "1 cucumber, sliced",
+          "1 tbsp olive oil plus 1 tbsp lemon juice, for the salad",
+          "1.5 tbsp olive oil for the pan",
+          "Salt, pepper, garlic powder"
+        ],
+        "steps": [
+          "Heat oven to 400\u00b0F.",
+          "Toss green beans with 1 tbsp oil, salt, and pepper, and roast 8 minutes.",
+          "Push the beans aside, add the salmon, drizzle with the remaining oil, and season.",
+          "Bake 10\u201312 minutes, until the salmon flakes.",
+          "Toss the cucumber with oil, lemon, salt, and pepper, and serve alongside."
+        ]
+      }
+    },
+    {
+      "date": "2026-10-04",
+      "weekday": "Sunday",
+      "breakfast": {
+        "name": "Spinach scramble and fruit",
+        "minutes": 12,
+        "serves": 2,
+        "ingredients": [
+          "4 eggs",
+          "Splash of almond milk",
+          "A big handful of spinach",
+          "1/2 cup cherry tomatoes, halved",
+          "2 green onions, sliced",
+          "Olive oil",
+          "Salt and pepper",
+          "Orange or apple on the side"
+        ],
+        "steps": [
+          "Whisk eggs with almond milk, salt, and pepper.",
+          "Saut\u00e9 spinach and tomatoes in a little olive oil for 1\u20132 minutes.",
+          "Pour the eggs over and scramble gently until just set.",
+          "Serve with fruit on the side."
+        ]
+      },
+      "lunch": {
+        "name": "Leftovers from this week's dinners",
+        "minutes": 10,
+        "serves": 2,
+        "ingredients": [
+          "Any leftovers from this week's dinners"
+        ],
+        "steps": [
+          "Reheat or plate leftovers from earlier in the week.",
+          "The emailed plan does not set a separate weekend lunch."
+        ]
+      },
+      "dinner": {
+        "name": "Roast pork tenderloin and sweet potato",
+        "minutes": 35,
+        "serves": 2,
+        "ingredients": [
+          "1 pork tenderloin",
+          "2 medium sweet potatoes, cubed",
+          "4\u20136 cups mixed greens, tomato, cucumber",
+          "2 tbsp olive oil plus 1 tbsp balsamic or lemon",
+          "2 tbsp olive oil",
+          "Salt, pepper, paprika, garlic powder"
+        ],
+        "steps": [
+          "Heat oven to 425\u00b0F.",
+          "Toss sweet potato with 1 tbsp oil and seasoning, and roast 10 minutes.",
+          "Rub the pork with the remaining oil and seasoning, add it to the pan, and roast 18\u201322 minutes more, to 145\u00b0F.",
+          "Rest the pork 5 minutes, then slice.",
+          "Toss the salad with dressing. Pack leftover pork for midweek."
+        ]
+      }
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Monday",
+      "breakfast": {
+        "name": "Overnight oats with protein",
+        "minutes": 5,
+        "serves": 2,
+        "ingredients": [
+          "1 cup rolled oats",
+          "2 cups unsweetened almond milk",
+          "1-2 scoops protein powder, or 1/2 cup Greek yogurt stirred in the morning",
+          "Cinnamon",
+          "Berries"
+        ],
+        "steps": [
+          "Divide oats, milk, and protein into 2 jars the night before.",
+          "Refrigerate overnight.",
+          "Stir and top with cinnamon and berries when you eat."
+        ]
+      },
+      "lunch": {
+        "name": "Berry spinach protein smoothie",
+        "minutes": 5,
+        "serves": 2,
+        "ingredients": [
+          "2 cups frozen mixed berries or strawberries",
+          "2 large handfuls spinach",
+          "1-1.5 cups plain Greek yogurt, or 2 scoops protein powder",
+          "1.5-2 cups unsweetened almond milk",
+          "2 tbsp almond butter or ground flax",
+          "Optional: 1/2 banana, cinnamon, ice"
+        ],
+        "steps": [
+          "Add everything to the blender, one batch per person if the blender is small.",
+          "Blend until smooth, thinning with more almond milk to taste."
+        ]
+      },
+      "dinner": {
+        "name": "Garlic shrimp and broccoli skillet",
+        "minutes": 20,
+        "serves": 2,
+        "ingredients": [
+          "1 lb large shrimp, peeled and deveined",
+          "1 head broccoli, florets",
+          "3 garlic cloves, minced",
+          "1/2 lemon",
+          "2 tbsp olive oil",
+          "Salt and pepper",
+          "Optional: red pepper flakes"
+        ],
+        "steps": [
+          "Pat the shrimp dry and season with salt and pepper.",
+          "Saut\u00e9 the broccoli in 1 tbsp oil with a splash of water, covered, for 4-5 minutes, then remove it.",
+          "Add the remaining oil and cook the garlic for 30 seconds.",
+          "Add the shrimp and cook 2-3 minutes per side until pink.",
+          "Return the broccoli, squeeze lemon over, and add pepper flakes if you want heat."
+        ]
+      }
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Tuesday",
+      "breakfast": {
+        "name": "Greek yogurt parfait",
+        "minutes": 5,
+        "serves": 2,
+        "ingredients": [
+          "2 cups plain Greek yogurt",
+          "1-2 cups berries",
+          "2 tbsp walnuts or almonds",
+          "Cinnamon"
+        ],
+        "steps": [
+          "Spoon yogurt into bowls.",
+          "Top with berries, nuts, and a sprinkle of cinnamon."
+        ]
+      },
+      "lunch": {
+        "name": "Berry spinach protein smoothie",
+        "minutes": 5,
+        "serves": 2,
+        "ingredients": [
+          "2 cups frozen mixed berries or strawberries",
+          "2 large handfuls spinach",
+          "1-1.5 cups plain Greek yogurt, or 2 scoops protein powder",
+          "1.5-2 cups unsweetened almond milk",
+          "2 tbsp almond butter or ground flax"
+        ],
+        "steps": [
+          "Add everything to the blender.",
+          "Blend until smooth, thinning with more almond milk to taste."
+        ]
+      },
+      "dinner": {
+        "name": "Ground beef and green beans skillet",
+        "minutes": 25,
+        "serves": 2,
+        "ingredients": [
+          "1 lb lean ground beef",
+          "12-16 oz green beans, trimmed",
+          "1/2 onion, diced",
+          "2 garlic cloves, minced",
+          "2 tbsp olive oil",
+          "Salt, pepper, garlic powder, paprika",
+          "Optional: cherry tomatoes"
+        ],
+        "steps": [
+          "Brown the beef with salt, pepper, garlic powder, and paprika, then set it aside.",
+          "Saut\u00e9 the onion in the oil for 2-3 minutes.",
+          "Add the green beans with a splash of water, cover, and cook 5-6 minutes until tender-crisp.",
+          "Stir in the garlic for 30 seconds.",
+          "Return the beef, add tomatoes if using, and toss to heat through."
+        ]
+      }
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Wednesday",
+      "breakfast": {
+        "name": "Veggie egg scramble and fruit",
+        "minutes": 12,
+        "serves": 2,
+        "ingredients": [
+          "4 eggs",
+          "Splash of almond milk",
+          "A handful of spinach",
+          "1/2 bell pepper, diced",
+          "2 green onions, sliced",
+          "Olive oil",
+          "Salt and pepper",
+          "Fruit on the side"
+        ],
+        "steps": [
+          "Whisk the eggs with almond milk, salt, and pepper.",
+          "Saut\u00e9 the spinach and bell pepper in a little oil for 1-2 minutes.",
+          "Pour the eggs over and scramble gently until just set.",
+          "Serve with fruit on the side."
+        ]
+      },
+      "lunch": {
+        "name": "Berry spinach protein smoothie",
+        "minutes": 5,
+        "serves": 2,
+        "ingredients": [
+          "2 cups frozen mixed berries or strawberries",
+          "2 large handfuls spinach",
+          "1-1.5 cups plain Greek yogurt, or 2 scoops protein powder",
+          "1.5-2 cups unsweetened almond milk",
+          "2 tbsp almond butter or ground flax"
+        ],
+        "steps": [
+          "Add everything to the blender.",
+          "Blend until smooth, thinning with more almond milk to taste."
+        ]
+      },
+      "dinner": {
+        "name": "Lemon herb chicken and asparagus",
+        "minutes": 30,
+        "serves": 2,
+        "ingredients": [
+          "2 chicken breasts, pounded even",
+          "1 bunch asparagus, trimmed",
+          "2 tbsp olive oil",
+          "Salt, pepper, garlic powder, oregano",
+          "1 lemon, zest and juice"
+        ],
+        "steps": [
+          "Heat oven to 425\u00b0F.",
+          "Toss the asparagus with 1 tbsp oil, salt, and pepper and spread it on a sheet pan.",
+          "Rub the chicken with the remaining oil, lemon zest, and seasoning and add it to the pan.",
+          "Roast 18-22 minutes, until the chicken reaches 165\u00b0F.",
+          "Finish with a squeeze of lemon."
+        ]
+      }
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Thursday",
+      "breakfast": {
+        "name": "Greek yogurt parfait",
+        "minutes": 5,
+        "serves": 2,
+        "ingredients": [
+          "2 cups plain Greek yogurt",
+          "1-2 cups berries",
+          "2 tbsp walnuts or almonds",
+          "Cinnamon"
+        ],
+        "steps": [
+          "Spoon yogurt into bowls.",
+          "Top with berries, nuts, and a sprinkle of cinnamon."
+        ]
+      },
+      "lunch": {
+        "name": "Berry spinach protein smoothie",
+        "minutes": 5,
+        "serves": 2,
+        "ingredients": [
+          "2 cups frozen mixed berries or strawberries",
+          "2 large handfuls spinach",
+          "1-1.5 cups plain Greek yogurt, or 2 scoops protein powder",
+          "1.5-2 cups unsweetened almond milk",
+          "2 tbsp almond butter or ground flax"
+        ],
+        "steps": [
+          "Add everything to the blender.",
+          "Blend until smooth, thinning with more almond milk to taste."
+        ]
+      },
+      "dinner": {
+        "name": "Turkey taco lettuce wraps",
+        "minutes": 20,
+        "serves": 2,
+        "ingredients": [
+          "1 lb ground turkey",
+          "1 bell pepper, diced",
+          "1/2 onion, diced",
+          "1 tbsp olive oil",
+          "1 tsp cumin",
+          "1 tsp chili powder",
+          "Salt and pepper",
+          "1 head butter or romaine lettuce",
+          "Salsa, diced tomato, avocado, lime"
+        ],
+        "steps": [
+          "Cook the onion and pepper in the oil for 3-4 minutes.",
+          "Add the turkey, cumin, chili powder, salt, and pepper and cook 6-8 minutes until no pink remains.",
+          "Spoon the filling into lettuce leaves.",
+          "Top with salsa, tomato, avocado, and a squeeze of lime."
+        ]
+      }
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Friday",
+      "breakfast": {
+        "name": "Veggie egg scramble and fruit",
+        "minutes": 12,
+        "serves": 2,
+        "ingredients": [
+          "4 eggs",
+          "Splash of almond milk",
+          "A handful of spinach",
+          "1/2 bell pepper, diced",
+          "2 green onions, sliced",
+          "Olive oil",
+          "Salt and pepper",
+          "Fruit on the side"
+        ],
+        "steps": [
+          "Whisk the eggs with almond milk, salt, and pepper.",
+          "Saut\u00e9 the spinach and bell pepper in a little oil for 1-2 minutes.",
+          "Pour the eggs over and scramble gently until just set.",
+          "Serve with fruit on the side."
+        ]
+      },
+      "lunch": {
+        "name": "Berry spinach protein smoothie",
+        "minutes": 5,
+        "serves": 2,
+        "ingredients": [
+          "2 cups frozen mixed berries or strawberries",
+          "2 large handfuls spinach",
+          "1-1.5 cups plain Greek yogurt, or 2 scoops protein powder",
+          "1.5-2 cups unsweetened almond milk",
+          "2 tbsp almond butter or ground flax"
+        ],
+        "steps": [
+          "Add everything to the blender.",
+          "Blend until smooth, thinning with more almond milk to taste."
+        ]
+      },
+      "dinner": {
+        "name": "Mediterranean tilapia, spinach and tomatoes",
+        "minutes": 25,
+        "serves": 2,
+        "ingredients": [
+          "2 tilapia or haddock fillets",
+          "4-5 cups spinach",
+          "1 pint cherry tomatoes",
+          "2 tbsp olive oil",
+          "Salt, pepper, garlic powder, oregano",
+          "Lemon",
+          "Optional: olives"
+        ],
+        "steps": [
+          "Heat oven to 400\u00b0F.",
+          "Roast the tomatoes with 1 tbsp oil and seasoning for 8 minutes.",
+          "Add the seasoned fish and bake 10-12 minutes until it flakes.",
+          "Wilt the spinach in a skillet with the remaining oil for 1-2 minutes.",
+          "Plate the fish, tomatoes, and spinach, add olives if using, and squeeze lemon over."
+        ]
+      }
+    },
+    {
+      "date": "2026-10-10",
+      "weekday": "Saturday",
+      "breakfast": {
+        "name": "Greek yogurt parfait",
+        "minutes": 5,
+        "serves": 2,
+        "ingredients": [
+          "2 cups plain Greek yogurt",
+          "1-2 cups berries",
+          "2 tbsp walnuts or almonds",
+          "Cinnamon"
+        ],
+        "steps": [
+          "Spoon yogurt into bowls.",
+          "Top with berries, nuts, and a sprinkle of cinnamon."
+        ]
+      },
+      "lunch": {
+        "name": "Leftovers from this week's dinners",
+        "minutes": 10,
+        "serves": 2,
+        "ingredients": [
+          "Any leftovers from this week's dinners"
+        ],
+        "steps": [
+          "Reheat or plate leftovers from earlier in the week.",
+          "The emailed plan does not set a separate weekend lunch."
+        ]
+      },
+      "dinner": {
+        "name": "Chicken sausage, kale and white beans",
+        "minutes": 20,
+        "serves": 2,
+        "ingredients": [
+          "4 chicken sausage links",
+          "1 bunch kale, chopped",
+          "1 can cannellini beans, rinsed",
+          "1 tbsp olive oil",
+          "2 garlic cloves, minced",
+          "Salt, pepper, red pepper flakes",
+          "Cucumber salad"
+        ],
+        "steps": [
+          "Brown the sausage in the oil, then slice it.",
+          "Cook the garlic for 30 seconds.",
+          "Add the kale with a splash of water, cover, and cook 3-4 minutes until wilted.",
+          "Add the beans and sausage and warm 2-3 minutes.",
+          "Serve with the cucumber salad."
+        ]
+      }
+    },
+    {
+      "date": "2026-10-11",
+      "weekday": "Sunday",
+      "breakfast": {
+        "name": "Veggie egg scramble and fruit",
+        "minutes": 12,
+        "serves": 2,
+        "ingredients": [
+          "4 eggs",
+          "Splash of almond milk",
+          "A handful of spinach",
+          "1/2 bell pepper, diced",
+          "2 green onions, sliced",
+          "Olive oil",
+          "Salt and pepper",
+          "Fruit on the side"
+        ],
+        "steps": [
+          "Whisk the eggs with almond milk, salt, and pepper.",
+          "Saut\u00e9 the spinach and bell pepper in a little oil for 1-2 minutes.",
+          "Pour the eggs over and scramble gently until just set.",
+          "Serve with fruit on the side."
+        ]
+      },
+      "lunch": {
+        "name": "Leftovers from this week's dinners",
+        "minutes": 10,
+        "serves": 2,
+        "ingredients": [
+          "Any leftovers from this week's dinners"
+        ],
+        "steps": [
+          "Reheat or plate leftovers from earlier in the week.",
+          "The emailed plan does not set a separate weekend lunch."
+        ]
+      },
+      "dinner": {
+        "name": "Roast chicken thighs, sprouts and carrots",
+        "minutes": 35,
+        "serves": 2,
+        "ingredients": [
+          "4 chicken thighs",
+          "1 lb Brussels sprouts, halved",
+          "3-4 carrots, cut into chunks",
+          "2-3 tbsp olive oil",
+          "Salt, pepper, paprika, garlic powder",
+          "Salad with olive oil and balsamic or lemon"
+        ],
+        "steps": [
+          "Heat oven to 425\u00b0F.",
+          "Toss the vegetables with 1.5 tbsp oil and seasoning and roast 10 minutes.",
+          "Add the seasoned thighs and roast 20-25 minutes more, to 165\u00b0F.",
+          "Toss the salad with oil and balsamic or lemon.",
+          "Pack the leftovers for the week ahead."
+        ]
+      }
+    }
+  ]
+}
