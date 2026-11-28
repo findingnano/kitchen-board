@@ -1,22 +1,22 @@
 {
-  "week_of": "2026-11-23",
-  "through": "2026-11-29",
+  "week_of": "2026-11-30",
+  "through": "2026-12-06",
   "source": "Health Bot",
   "days": [
     {
-      "date": "2026-11-23",
+      "date": "2026-11-30",
       "weekday": "Monday",
       "breakfast": {
-        "name": "Turkey sausage egg muffins",
+        "name": "Ham + cheddar egg bites",
         "minutes": 35,
         "serves": 2,
         "ingredients": [
           "10 large eggs",
-          "6 oz fully cooked turkey breakfast sausage, chopped",
-          "1 cup baby spinach, chopped",
-          "1/2 red bell pepper, diced",
+          "6 oz diced ham (or a ham steak, diced)",
+          "1 cup finely chopped broccoli",
+          "2 green onions, sliced",
           "1/2 cup low-fat cottage cheese",
-          "1/2 cup shredded mozzarella",
+          "1/2 cup shredded sharp cheddar",
           "1/4 tsp garlic powder",
           "Salt and pepper",
           "Cooking spray",
@@ -24,68 +24,67 @@
         ],
         "steps": [
           "On Sunday, heat the oven to 350 F and spray a 12-cup muffin tin well.",
-          "Divide the sausage, spinach, and bell pepper among the cups.",
-          "Whisk the eggs, cottage cheese, garlic powder, salt, and pepper, then pour into the cups about three-quarters full.",
-          "Top with the mozzarella and bake 20 to 22 minutes until set in the center.",
+          "Divide the ham, broccoli, and green onions among the cups.",
+          "Whisk the eggs, cottage cheese, garlic powder, a pinch of salt, and pepper, then pour into the cups about three-quarters full.",
+          "Top with the cheddar and bake 20 to 22 minutes until set in the center.",
           "Cool, then refrigerate in a sealed container.",
-          "To serve, microwave 2 muffins per person for 45 to 60 seconds and eat with a clementine or two."
+          "To serve, microwave 2 egg bites per person for 45 to 60 seconds and eat with a clementine or two."
         ]
       },
       "lunch": {
-        "name": "Berry-ginger smoothie",
+        "name": "Strawberry-peach smoothie",
         "minutes": 5,
         "serves": 2,
         "ingredients": [
           "2 scoops vanilla protein powder",
-          "2 cups frozen mixed berries",
+          "1 cup frozen strawberries",
+          "1 cup frozen peaches",
           "2 handfuls baby spinach",
-          "1 tsp grated fresh ginger",
-          "2 cups unsweetened almond milk",
+          "1 1/2 cups unsweetened almond milk",
           "1/2 cup plain Greek yogurt (2%)",
           "2 tbsp almond butter",
-          "1 tbsp ground flaxseed",
-          "Optional: 1/2 frozen banana, a squeeze of lemon, or a few ice cubes"
+          "1 tbsp chia seeds",
+          "Optional: a squeeze of lime, 1/2 tsp cinnamon, or a few ice cubes"
         ],
         "steps": [
           "Add almond milk and yogurt to the blender first.",
-          "Add protein powder, spinach, berries, ginger, almond butter, and flaxseed.",
+          "Add protein powder, spinach, strawberries, peaches, almond butter, and chia seeds.",
           "Blend on high 45 to 60 seconds until smooth, adding a splash of water if too thick.",
           "Pour into two glasses and drink right away."
         ]
       },
       "dinner": {
-        "name": "Sesame salmon + broccoli",
-        "minutes": 25,
+        "name": "Greek chicken sheet pan",
+        "minutes": 30,
         "serves": 2,
         "ingredients": [
-          "2 salmon fillets (6 oz each)",
-          "4 cups broccoli florets",
-          "1 red bell pepper, sliced",
-          "1 tbsp olive oil",
-          "2 tbsp low-sodium soy sauce",
-          "1 tsp toasted sesame oil",
-          "1 tsp honey",
-          "1 tsp grated fresh ginger",
-          "1 garlic clove, minced",
-          "1 tsp sesame seeds",
-          "1 green onion, sliced",
+          "1 1/4 lb boneless skinless chicken breasts, cut in 1 1/2-inch pieces",
+          "2 zucchini, cut in half-moons",
+          "1 red onion, cut in wedges",
+          "1 cup cherry tomatoes",
+          "2 tbsp olive oil, divided",
+          "1 lemon (zest and juice)",
+          "2 garlic cloves, minced",
+          "1 tsp dried oregano",
+          "1/2 cup plain Greek yogurt (2%)",
+          "1/4 cup crumbled feta",
           "Salt and pepper"
         ],
         "steps": [
           "Heat the oven to 425 F and line a sheet pan.",
-          "Toss the broccoli and pepper with the olive oil, salt, and pepper and roast 10 minutes.",
-          "Whisk the soy sauce, sesame oil, honey, ginger, and garlic.",
-          "Push the vegetables to the sides, add the salmon skin-side down, and brush with the sauce.",
-          "Roast 10 to 12 minutes until the salmon flakes easily (145 F).",
-          "Sprinkle with sesame seeds and green onion and serve."
+          "Toss the chicken with 1 tbsp oil, the lemon zest, juice of half the lemon, garlic, oregano, 3/4 tsp salt, and pepper.",
+          "Toss the zucchini, onion, and tomatoes with the remaining oil, salt, and pepper and spread everything on the pan.",
+          "Roast 18 to 20 minutes until the chicken reaches 165 F.",
+          "Stir the rest of the lemon juice and a pinch of salt into the yogurt.",
+          "Sprinkle the pan with feta and serve with the lemon yogurt sauce."
         ]
       }
     },
     {
-      "date": "2026-11-24",
+      "date": "2026-12-01",
       "weekday": "Tuesday",
       "breakfast": {
-        "name": "Blueberry-almond oats",
+        "name": "Apple-cinnamon oats",
         "minutes": 5,
         "serves": 2,
         "ingredients": [
@@ -94,81 +93,81 @@
           "1/2 cup plain Greek yogurt (2%)",
           "1 scoop vanilla protein powder",
           "1 tbsp chia seeds",
-          "1 cup frozen blueberries",
-          "1/2 tsp cinnamon",
-          "2 tbsp sliced almonds"
+          "1 apple, finely diced",
+          "1 tsp cinnamon",
+          "2 tbsp chopped walnuts"
         ],
         "steps": [
           "The night before, whisk almond milk, Greek yogurt, protein powder, and cinnamon until smooth.",
-          "Stir in the oats, chia seeds, and frozen blueberries, divide between two jars, cover, and refrigerate overnight.",
-          "In the morning, stir, add a splash of milk if thick, and top with the sliced almonds."
+          "Stir in the oats, chia seeds, and diced apple, divide between two jars, cover, and refrigerate overnight.",
+          "In the morning, stir, add a splash of milk if thick, and top with the walnuts."
         ]
       },
       "lunch": {
-        "name": "Berry-ginger smoothie",
+        "name": "Strawberry-peach smoothie",
         "minutes": 5,
         "serves": 2,
         "ingredients": [
           "2 scoops vanilla protein powder",
-          "2 cups frozen mixed berries",
+          "1 cup frozen strawberries",
+          "1 cup frozen peaches",
           "2 handfuls baby spinach",
-          "1 tsp grated fresh ginger",
-          "2 cups unsweetened almond milk",
+          "1 1/2 cups unsweetened almond milk",
           "1/2 cup plain Greek yogurt (2%)",
           "2 tbsp almond butter",
-          "1 tbsp ground flaxseed",
-          "Optional: 1/2 frozen banana, a squeeze of lemon, or a few ice cubes"
+          "1 tbsp chia seeds",
+          "Optional: a squeeze of lime, 1/2 tsp cinnamon, or a few ice cubes"
         ],
         "steps": [
           "Add almond milk and yogurt to the blender first.",
-          "Add protein powder, spinach, berries, ginger, almond butter, and flaxseed.",
+          "Add protein powder, spinach, strawberries, peaches, almond butter, and chia seeds.",
           "Blend on high 45 to 60 seconds until smooth, adding a splash of water if too thick.",
           "Pour into two glasses and drink right away."
         ]
       },
       "dinner": {
-        "name": "Turkey taco lettuce cups",
-        "minutes": 20,
+        "name": "Moroccan turkey skillet",
+        "minutes": 25,
         "serves": 2,
         "ingredients": [
           "1 lb lean ground turkey (93%)",
           "1 tbsp olive oil",
           "1/2 yellow onion, diced",
-          "1 green bell pepper, diced",
-          "2 tsp chili powder",
-          "1 tsp ground cumin",
-          "1/2 tsp smoked paprika",
-          "1/2 tsp garlic powder",
-          "1 can (15 oz) black beans, rinsed",
-          "1/2 cup salsa",
-          "2 romaine hearts, leaves separated",
-          "1 avocado, diced",
+          "2 garlic cloves, minced",
+          "2 tsp ground cumin",
+          "1 tsp smoked paprika",
+          "1/2 tsp cinnamon",
+          "1 can (15 oz) chickpeas, rinsed",
+          "1 can (14.5 oz) diced tomatoes",
+          "4 cups baby spinach",
           "1/4 cup plain Greek yogurt (2%)",
-          "1 lime, cut in wedges",
+          "2 tbsp chopped fresh parsley",
+          "1 lemon, cut in wedges",
           "Salt"
         ],
         "steps": [
-          "Heat the oil in a large skillet over medium-high heat and cook the onion and pepper 3 minutes.",
+          "Heat the oil in a large skillet over medium-high heat and cook the onion 3 minutes.",
           "Add the turkey and cook, breaking it up, until no longer pink, 5 to 6 minutes.",
-          "Stir in the chili powder, cumin, paprika, garlic powder, and 1/2 tsp salt, then the beans and salsa. Simmer 3 minutes.",
-          "Spoon into romaine leaves and top with avocado, a little Greek yogurt, and a squeeze of lime."
+          "Stir in the garlic, cumin, paprika, cinnamon, and 3/4 tsp salt for 30 seconds.",
+          "Add the chickpeas and tomatoes and simmer 6 to 8 minutes until thickened.",
+          "Stir in the spinach until wilted. Serve with a spoonful of yogurt, parsley, and lemon."
         ]
       }
     },
     {
-      "date": "2026-11-25",
+      "date": "2026-12-02",
       "weekday": "Wednesday",
       "breakfast": {
-        "name": "Turkey sausage egg muffins",
+        "name": "Ham + cheddar egg bites",
         "minutes": 35,
         "serves": 2,
         "ingredients": [
           "10 large eggs",
-          "6 oz fully cooked turkey breakfast sausage, chopped",
-          "1 cup baby spinach, chopped",
-          "1/2 red bell pepper, diced",
+          "6 oz diced ham (or a ham steak, diced)",
+          "1 cup finely chopped broccoli",
+          "2 green onions, sliced",
           "1/2 cup low-fat cottage cheese",
-          "1/2 cup shredded mozzarella",
+          "1/2 cup shredded sharp cheddar",
           "1/4 tsp garlic powder",
           "Salt and pepper",
           "Cooking spray",
@@ -176,66 +175,68 @@
         ],
         "steps": [
           "On Sunday, heat the oven to 350 F and spray a 12-cup muffin tin well.",
-          "Divide the sausage, spinach, and bell pepper among the cups.",
-          "Whisk the eggs, cottage cheese, garlic powder, salt, and pepper, then pour into the cups about three-quarters full.",
-          "Top with the mozzarella and bake 20 to 22 minutes until set in the center.",
+          "Divide the ham, broccoli, and green onions among the cups.",
+          "Whisk the eggs, cottage cheese, garlic powder, a pinch of salt, and pepper, then pour into the cups about three-quarters full.",
+          "Top with the cheddar and bake 20 to 22 minutes until set in the center.",
           "Cool, then refrigerate in a sealed container.",
-          "To serve, microwave 2 muffins per person for 45 to 60 seconds and eat with a clementine or two."
+          "To serve, microwave 2 egg bites per person for 45 to 60 seconds and eat with a clementine or two."
         ]
       },
       "lunch": {
-        "name": "Berry-ginger smoothie",
+        "name": "Strawberry-peach smoothie",
         "minutes": 5,
         "serves": 2,
         "ingredients": [
           "2 scoops vanilla protein powder",
-          "2 cups frozen mixed berries",
+          "1 cup frozen strawberries",
+          "1 cup frozen peaches",
           "2 handfuls baby spinach",
-          "1 tsp grated fresh ginger",
-          "2 cups unsweetened almond milk",
+          "1 1/2 cups unsweetened almond milk",
           "1/2 cup plain Greek yogurt (2%)",
           "2 tbsp almond butter",
-          "1 tbsp ground flaxseed",
-          "Optional: 1/2 frozen banana, a squeeze of lemon, or a few ice cubes"
+          "1 tbsp chia seeds",
+          "Optional: a squeeze of lime, 1/2 tsp cinnamon, or a few ice cubes"
         ],
         "steps": [
           "Add almond milk and yogurt to the blender first.",
-          "Add protein powder, spinach, berries, ginger, almond butter, and flaxseed.",
+          "Add protein powder, spinach, strawberries, peaches, almond butter, and chia seeds.",
           "Blend on high 45 to 60 seconds until smooth, adding a splash of water if too thick.",
           "Pour into two glasses and drink right away."
         ]
       },
       "dinner": {
-        "name": "Garlic shrimp + white beans",
-        "minutes": 20,
+        "name": "Lemon chicken orzo soup",
+        "minutes": 35,
         "serves": 2,
         "ingredients": [
-          "1 lb large shrimp, peeled and deveined",
+          "1 lb boneless skinless chicken breasts",
           "1 tbsp olive oil",
+          "1 yellow onion, diced",
+          "2 carrots, diced",
+          "2 celery ribs, diced",
           "3 garlic cloves, minced",
-          "1/4 tsp red pepper flakes",
-          "1 can (15 oz) cannellini beans, rinsed",
-          "1 cup cherry tomatoes, halved",
-          "1/2 cup low-sodium chicken broth",
+          "6 cups low-sodium chicken broth",
+          "1 tsp dried thyme",
+          "1/2 cup whole wheat orzo",
           "4 cups baby spinach",
-          "1 lemon",
-          "2 tbsp grated Parmesan",
+          "1 lemon, juiced",
+          "2 tbsp chopped fresh parsley",
           "Salt and pepper"
         ],
         "steps": [
-          "Pat the shrimp dry and season with salt and pepper.",
-          "Heat the oil in a large skillet over medium-high heat and cook the shrimp 1 to 2 minutes per side until pink. Move to a plate.",
-          "Lower the heat to medium, add the garlic and pepper flakes for 30 seconds, then the beans, tomatoes, and broth. Simmer 4 minutes.",
-          "Stir in the spinach until wilted, return the shrimp, and add the juice of half the lemon.",
-          "Serve topped with Parmesan and lemon wedges."
+          "Heat the oil in a large pot over medium heat and cook the onion, carrots, and celery 5 minutes.",
+          "Add the garlic for 30 seconds, then the broth, thyme, 1/2 tsp salt, and the whole chicken breasts.",
+          "Bring to a simmer and cook 15 minutes until the chicken reaches 165 F. Move the chicken to a board and shred it with two forks.",
+          "Add the orzo to the pot and simmer 8 to 9 minutes until tender.",
+          "Return the chicken, stir in the spinach until wilted, then the lemon juice and parsley. Season to taste."
         ]
       }
     },
     {
-      "date": "2026-11-26",
+      "date": "2026-12-03",
       "weekday": "Thursday",
       "breakfast": {
-        "name": "Blueberry-almond oats",
+        "name": "Apple-cinnamon oats",
         "minutes": 5,
         "serves": 2,
         "ingredients": [
@@ -244,81 +245,78 @@
           "1/2 cup plain Greek yogurt (2%)",
           "1 scoop vanilla protein powder",
           "1 tbsp chia seeds",
-          "1 cup frozen blueberries",
-          "1/2 tsp cinnamon",
-          "2 tbsp sliced almonds"
+          "1 apple, finely diced",
+          "1 tsp cinnamon",
+          "2 tbsp chopped walnuts"
         ],
         "steps": [
           "The night before, whisk almond milk, Greek yogurt, protein powder, and cinnamon until smooth.",
-          "Stir in the oats, chia seeds, and frozen blueberries, divide between two jars, cover, and refrigerate overnight.",
-          "In the morning, stir, add a splash of milk if thick, and top with the sliced almonds."
+          "Stir in the oats, chia seeds, and diced apple, divide between two jars, cover, and refrigerate overnight.",
+          "In the morning, stir, add a splash of milk if thick, and top with the walnuts."
         ]
       },
       "lunch": {
-        "name": "Berry-ginger smoothie",
+        "name": "Strawberry-peach smoothie",
         "minutes": 5,
         "serves": 2,
         "ingredients": [
           "2 scoops vanilla protein powder",
-          "2 cups frozen mixed berries",
+          "1 cup frozen strawberries",
+          "1 cup frozen peaches",
           "2 handfuls baby spinach",
-          "1 tsp grated fresh ginger",
-          "2 cups unsweetened almond milk",
+          "1 1/2 cups unsweetened almond milk",
           "1/2 cup plain Greek yogurt (2%)",
           "2 tbsp almond butter",
-          "1 tbsp ground flaxseed",
-          "Optional: 1/2 frozen banana, a squeeze of lemon, or a few ice cubes"
+          "1 tbsp chia seeds",
+          "Optional: a squeeze of lime, 1/2 tsp cinnamon, or a few ice cubes"
         ],
         "steps": [
           "Add almond milk and yogurt to the blender first.",
-          "Add protein powder, spinach, berries, ginger, almond butter, and flaxseed.",
+          "Add protein powder, spinach, strawberries, peaches, almond butter, and chia seeds.",
           "Blend on high 45 to 60 seconds until smooth, adding a splash of water if too thick.",
           "Pour into two glasses and drink right away."
         ]
       },
       "dinner": {
-        "name": "Thanksgiving turkey breast",
-        "minutes": 90,
+        "name": "Pork chops + apples",
+        "minutes": 30,
         "serves": 2,
         "ingredients": [
-          "1 boneless turkey breast roast (about 3 lb), thawed",
-          "2 tbsp olive oil, divided",
-          "1 tbsp butter, softened",
-          "3 garlic cloves, minced",
-          "1 tsp dried thyme",
-          "1 tsp dried rosemary",
-          "1 tsp poultry seasoning",
-          "1/2 cup low-sodium chicken broth",
+          "2 boneless pork chops (about 6 oz each, 3/4 inch thick)",
           "1 lb Brussels sprouts, halved",
-          "1 medium sweet potato, cut in 1-inch cubes",
-          "1/4 cup whole-berry cranberry sauce",
+          "1 apple, sliced",
+          "1/2 red onion, sliced",
+          "2 tbsp olive oil, divided",
+          "1 tsp dried thyme",
+          "1/2 tsp garlic powder",
+          "1/4 cup low-sodium chicken broth",
+          "1 tbsp Dijon mustard",
+          "1 tsp maple syrup",
           "Salt and pepper"
         ],
         "steps": [
-          "Heat the oven to 375 F. Pat the turkey dry and let it sit out 20 minutes.",
-          "Mix the butter, 1 tbsp olive oil, garlic, thyme, rosemary, poultry seasoning, 1 tsp salt, and pepper, and rub it all over the turkey.",
-          "Set the turkey in the middle of a large rimmed sheet pan, pour the broth into the pan, and roast 30 minutes.",
-          "Toss the Brussels sprouts and sweet potato with the remaining oil, salt, and pepper and spread them around the turkey.",
-          "Roast 45 to 60 minutes more, until the thickest part of the turkey reads 160 F and the vegetables are browned.",
-          "Tent with foil and rest 15 minutes (it will reach 165 F), then slice.",
-          "Serve about 6 oz turkey each with the vegetables and 2 tbsp cranberry sauce. Refrigerate the rest of the turkey within 2 hours."
+          "Season the chops with the thyme, garlic powder, salt, and pepper.",
+          "Heat 1 tbsp oil in a large skillet over medium-high heat and sear the chops 4 to 5 minutes per side until 145 F. Move to a plate and tent with foil.",
+          "Add the remaining oil and the Brussels sprouts cut-side down with a pinch of salt. Cook 5 to 6 minutes until browned.",
+          "Add the apple and onion and cook 3 minutes, then pour in the broth, cover, and steam 3 minutes until the sprouts are tender.",
+          "Stir in the Dijon and maple, return the chops and any juices, and serve."
         ]
       }
     },
     {
-      "date": "2026-11-27",
+      "date": "2026-12-04",
       "weekday": "Friday",
       "breakfast": {
-        "name": "Turkey sausage egg muffins",
+        "name": "Ham + cheddar egg bites",
         "minutes": 35,
         "serves": 2,
         "ingredients": [
           "10 large eggs",
-          "6 oz fully cooked turkey breakfast sausage, chopped",
-          "1 cup baby spinach, chopped",
-          "1/2 red bell pepper, diced",
+          "6 oz diced ham (or a ham steak, diced)",
+          "1 cup finely chopped broccoli",
+          "2 green onions, sliced",
           "1/2 cup low-fat cottage cheese",
-          "1/2 cup shredded mozzarella",
+          "1/2 cup shredded sharp cheddar",
           "1/4 tsp garlic powder",
           "Salt and pepper",
           "Cooking spray",
@@ -326,199 +324,200 @@
         ],
         "steps": [
           "On Sunday, heat the oven to 350 F and spray a 12-cup muffin tin well.",
-          "Divide the sausage, spinach, and bell pepper among the cups.",
-          "Whisk the eggs, cottage cheese, garlic powder, salt, and pepper, then pour into the cups about three-quarters full.",
-          "Top with the mozzarella and bake 20 to 22 minutes until set in the center.",
+          "Divide the ham, broccoli, and green onions among the cups.",
+          "Whisk the eggs, cottage cheese, garlic powder, a pinch of salt, and pepper, then pour into the cups about three-quarters full.",
+          "Top with the cheddar and bake 20 to 22 minutes until set in the center.",
           "Cool, then refrigerate in a sealed container.",
-          "To serve, microwave 2 muffins per person for 45 to 60 seconds and eat with a clementine or two."
+          "To serve, microwave 2 egg bites per person for 45 to 60 seconds and eat with a clementine or two."
         ]
       },
       "lunch": {
-        "name": "Berry-ginger smoothie",
+        "name": "Strawberry-peach smoothie",
         "minutes": 5,
         "serves": 2,
         "ingredients": [
           "2 scoops vanilla protein powder",
-          "2 cups frozen mixed berries",
+          "1 cup frozen strawberries",
+          "1 cup frozen peaches",
           "2 handfuls baby spinach",
-          "1 tsp grated fresh ginger",
-          "2 cups unsweetened almond milk",
+          "1 1/2 cups unsweetened almond milk",
           "1/2 cup plain Greek yogurt (2%)",
           "2 tbsp almond butter",
-          "1 tbsp ground flaxseed",
-          "Optional: 1/2 frozen banana, a squeeze of lemon, or a few ice cubes"
+          "1 tbsp chia seeds",
+          "Optional: a squeeze of lime, 1/2 tsp cinnamon, or a few ice cubes"
         ],
         "steps": [
           "Add almond milk and yogurt to the blender first.",
-          "Add protein powder, spinach, berries, ginger, almond butter, and flaxseed.",
+          "Add protein powder, spinach, strawberries, peaches, almond butter, and chia seeds.",
           "Blend on high 45 to 60 seconds until smooth, adding a splash of water if too thick.",
           "Pour into two glasses and drink right away."
         ]
       },
       "dinner": {
-        "name": "Leftover turkey stir-fry",
+        "name": "Shrimp scampi zoodles",
         "minutes": 20,
         "serves": 2,
         "ingredients": [
-          "12 oz leftover turkey, cut in bite-size pieces",
+          "1 lb large shrimp, peeled and deveined",
           "1 tbsp olive oil",
-          "2 cups sugar snap peas",
-          "1 red bell pepper, sliced",
-          "2 green onions, sliced",
-          "2 garlic cloves, minced",
-          "1 tsp grated fresh ginger",
-          "3 tbsp low-sodium soy sauce",
-          "1 tsp toasted sesame oil",
-          "1 tsp honey",
-          "1 tsp cornstarch mixed with 2 tbsp water",
-          "1 bag (12 oz) frozen cauliflower rice"
+          "1 tbsp butter",
+          "4 garlic cloves, minced",
+          "1/4 tsp red pepper flakes",
+          "2 packages (10 to 12 oz) zucchini noodles",
+          "1 cup cherry tomatoes, halved",
+          "1/4 cup low-sodium chicken broth",
+          "1 lemon",
+          "2 tbsp grated Parmesan",
+          "2 tbsp chopped fresh parsley",
+          "Salt and pepper"
         ],
         "steps": [
-          "Microwave or pan-cook the cauliflower rice according to the bag and keep warm.",
-          "Heat the oil in a large skillet or wok over medium-high heat and stir-fry the snap peas and pepper 3 to 4 minutes.",
-          "Add the garlic, ginger, and most of the green onions for 30 seconds, then add the turkey and toss until hot, about 2 minutes.",
-          "Stir in the soy sauce, sesame oil, honey, and cornstarch mixture and cook 1 minute until glossy.",
-          "Serve over the cauliflower rice with the rest of the green onions."
+          "Pat the shrimp dry and season with salt and pepper.",
+          "Heat the oil in a large skillet over medium-high heat and cook the shrimp 1 to 2 minutes per side until pink. Move to a plate.",
+          "Lower the heat to medium, add the butter, garlic, and pepper flakes for 30 seconds, then the broth and tomatoes for 2 minutes.",
+          "Add the zucchini noodles and toss 2 to 3 minutes until just tender (don't overcook or they get watery).",
+          "Return the shrimp, add the juice of half the lemon, and serve with Parmesan, parsley, and lemon wedges."
         ]
       }
     },
     {
-      "date": "2026-11-28",
+      "date": "2026-12-05",
       "weekday": "Saturday",
       "breakfast": {
-        "name": "Smoked salmon scramble",
+        "name": "Mushroom feta scramble",
         "minutes": 15,
         "serves": 2,
         "ingredients": [
           "5 large eggs",
-          "3 oz smoked salmon, torn into pieces",
-          "2 green onions, thinly sliced",
+          "4 slices turkey bacon",
+          "4 oz mushrooms, sliced",
           "2 cups baby spinach",
-          "1 tsp butter",
-          "2 clementines",
+          "1/4 cup crumbled feta",
+          "1 tsp olive oil",
+          "1 cup fresh strawberries",
           "Pepper"
         ],
         "steps": [
-          "Whisk the eggs with a little pepper (the salmon is salty, so skip the salt).",
-          "Melt the butter in a nonstick skillet over medium-low heat and wilt the spinach for 1 minute.",
-          "Add the eggs and stir slowly with a spatula until softly set, 2 to 3 minutes.",
-          "Fold in the smoked salmon and green onions off the heat, and serve with the clementines."
+          "Cook the turkey bacon in a nonstick skillet over medium heat until crisp, about 6 minutes. Move to a plate.",
+          "Add the oil and mushrooms and cook 4 minutes until browned, then wilt the spinach for 1 minute.",
+          "Whisk the eggs with pepper, pour them in, and stir slowly over medium-low heat until softly set, 2 to 3 minutes.",
+          "Sprinkle with feta and serve with the turkey bacon and strawberries."
         ]
       },
       "lunch": {
-        "name": "Leftover turkey salad",
-        "minutes": 10,
+        "name": "Leftover chicken soup",
+        "minutes": 5,
         "serves": 2,
         "ingredients": [
-          "8 oz leftover Thanksgiving turkey, sliced or chopped",
-          "4 cups baby spinach",
-          "1 apple, thinly sliced",
-          "2 tbsp dried cranberries",
-          "2 tbsp chopped pecans",
-          "1/4 cup crumbled feta",
-          "Any leftover roasted Brussels sprouts or sweet potato",
-          "2 tbsp olive oil",
-          "1 tbsp apple cider vinegar",
-          "1 tsp Dijon mustard",
-          "1 tsp maple syrup",
-          "Salt and pepper"
+          "2 portions lemon chicken orzo soup (from Wednesday)",
+          "2 tbsp grated Parmesan",
+          "Black pepper",
+          "Lemon wedge (optional)"
         ],
         "steps": [
-          "Whisk the olive oil, vinegar, Dijon, maple, salt, and pepper in a large bowl.",
-          "Add the spinach and apple and toss to coat.",
-          "Divide between two plates and top with the turkey, any leftover vegetables (warm or cold), cranberries, pecans, and feta."
+          "Reheat the soup in a pot over medium heat or in the microwave until steaming, adding a splash of broth or water if it has thickened.",
+          "Serve topped with Parmesan, black pepper, and a squeeze of lemon."
         ]
       },
       "dinner": {
-        "name": "Chicken cacciatore skillet",
-        "minutes": 35,
+        "name": "Steak fajita sheet pan",
+        "minutes": 25,
         "serves": 2,
         "ingredients": [
-          "1 1/4 lb boneless skinless chicken thighs",
-          "1 tbsp olive oil",
-          "8 oz mushrooms, sliced",
-          "1 green bell pepper, sliced",
-          "1/2 yellow onion, sliced",
-          "2 garlic cloves, minced",
-          "1 can (14.5 oz) diced tomatoes",
-          "1 tsp Italian seasoning",
-          "1/4 tsp red pepper flakes",
-          "2 cups baby spinach",
-          "2 tbsp grated Parmesan",
-          "Salt and pepper"
+          "1 lb sirloin steak, sliced thin against the grain",
+          "3 bell peppers (red, green, yellow), sliced",
+          "1 yellow onion, sliced",
+          "2 tbsp olive oil",
+          "2 tsp chili powder",
+          "1 tsp ground cumin",
+          "1/2 tsp garlic powder",
+          "1/2 tsp smoked paprika",
+          "1 lime",
+          "1 avocado, sliced",
+          "1/4 cup plain Greek yogurt (2%)",
+          "1/2 cup salsa",
+          "4 small whole wheat tortillas or romaine leaves",
+          "Salt"
         ],
         "steps": [
-          "Season the chicken with salt and pepper. Heat the oil in a large skillet over medium-high heat and brown the chicken 4 minutes per side. Move to a plate.",
-          "Add the mushrooms, pepper, and onion and cook 5 minutes until softened, then the garlic for 30 seconds.",
-          "Stir in the tomatoes, Italian seasoning, and pepper flakes, and nestle the chicken back in.",
-          "Cover and simmer 12 to 15 minutes until the chicken reaches 175 F.",
-          "Stir the spinach into the sauce until wilted and serve topped with Parmesan."
+          "Heat the oven to 450 F and line a sheet pan.",
+          "Toss the peppers and onion with 1 tbsp oil, half the spices, and salt, and roast 10 minutes.",
+          "Toss the steak with the remaining oil, spices, and 1/2 tsp salt.",
+          "Add the steak to the pan in a single layer and roast 6 to 8 minutes until browned and just cooked.",
+          "Squeeze the lime over everything and serve in tortillas or romaine with avocado, yogurt, and salsa."
         ]
       }
     },
     {
-      "date": "2026-11-29",
+      "date": "2026-12-06",
       "weekday": "Sunday",
       "breakfast": {
-        "name": "Cottage cheese bowls + eggs",
-        "minutes": 15,
+        "name": "Banana protein pancakes",
+        "minutes": 20,
         "serves": 2,
         "ingredients": [
-          "1 1/2 cups low-fat cottage cheese",
-          "1 cup pineapple chunks (canned in juice, drained)",
-          "2 tbsp sliced almonds",
+          "1 ripe banana",
+          "2 large eggs",
+          "1/2 cup old-fashioned rolled oats",
+          "1/2 cup low-fat cottage cheese",
+          "1 scoop vanilla protein powder",
+          "1/2 tsp baking powder",
           "1/2 tsp cinnamon",
-          "8 large eggs (4 for now, 4 for lunch)"
+          "Cooking spray",
+          "1/2 cup plain Greek yogurt (2%)",
+          "1 cup frozen blueberries, thawed"
         ],
         "steps": [
-          "Cover the 8 eggs with cold water in a pot, bring to a boil, then turn off the heat, cover, and let sit 10 minutes.",
-          "Meanwhile, divide the cottage cheese between two bowls and top with pineapple, almonds, and a pinch of cinnamon.",
-          "Move the eggs to ice water for 2 minutes. Peel 4 and serve 2 per person; refrigerate the other 4 for lunch."
+          "Blend the banana, eggs, oats, cottage cheese, protein powder, baking powder, and cinnamon until smooth. Let sit 3 minutes.",
+          "Heat a nonstick skillet over medium-low heat and spray lightly.",
+          "Pour 1/4-cup scoops and cook 2 minutes until bubbles form, then flip and cook 1 to 2 minutes more.",
+          "Serve topped with the Greek yogurt and blueberries."
         ]
       },
       "lunch": {
-        "name": "Greek chickpea egg salad",
+        "name": "Tuna white bean wraps",
         "minutes": 10,
         "serves": 2,
         "ingredients": [
-          "4 hard-boiled eggs (from breakfast), quartered",
-          "1 can (15 oz) chickpeas, rinsed",
-          "1 cucumber, diced",
+          "2 cans (5 oz) tuna in water, drained",
+          "1 can (15 oz) cannellini beans, rinsed",
+          "1 celery rib, diced",
           "1 cup cherry tomatoes, halved",
           "1/4 red onion, finely diced",
-          "1/4 cup crumbled feta",
+          "2 tbsp chopped fresh parsley",
           "2 tbsp olive oil",
           "1 lemon, juiced",
-          "1/2 tsp dried oregano",
+          "1 tsp Dijon mustard",
+          "1 romaine heart, leaves separated",
           "Salt and pepper"
         ],
         "steps": [
-          "Whisk olive oil, lemon juice, oregano, salt, and pepper in a large bowl.",
-          "Add the chickpeas, cucumber, tomatoes, and red onion and toss.",
-          "Divide between two bowls and top with the eggs and feta."
+          "Whisk olive oil, lemon juice, Dijon, salt, and pepper in a large bowl.",
+          "Add the tuna, beans, celery, tomatoes, red onion, and parsley and toss gently.",
+          "Spoon into romaine leaves and eat like tacos."
         ]
       },
       "dinner": {
-        "name": "Dijon pork + carrots",
+        "name": "Lemon-dill salmon",
         "minutes": 35,
         "serves": 2,
         "ingredients": [
-          "1 pork tenderloin (about 1 lb)",
-          "1 tbsp Dijon mustard",
+          "2 salmon fillets (6 oz each)",
+          "12 oz baby potatoes, halved",
+          "1 bunch asparagus, trimmed",
           "2 tbsp olive oil, divided",
-          "2 garlic cloves, minced",
-          "1 tsp dried thyme",
-          "1/2 tsp dried rosemary",
-          "4 carrots, sliced on an angle",
-          "12 oz green beans, trimmed",
+          "1 lemon",
+          "1 1/2 tsp dried dill, divided",
+          "1 garlic clove, minced",
+          "1/4 cup plain Greek yogurt (2%)",
           "Salt and pepper"
         ],
         "steps": [
           "Heat the oven to 425 F and line a sheet pan.",
-          "Toss the carrots with 1 tbsp olive oil, salt, and pepper and roast 10 minutes.",
-          "Mix the Dijon, remaining oil, garlic, thyme, rosemary, 1/2 tsp salt, and pepper and rub it over the pork.",
-          "Push the carrots aside, add the pork and green beans to the pan, and roast 18 to 22 minutes until the pork reaches 145 F.",
-          "Rest the pork 5 minutes, slice, and serve with the vegetables."
+          "Toss the potatoes with 1 tbsp oil, salt, and pepper and roast 15 minutes.",
+          "Toss the asparagus with the remaining oil and salt. Push the potatoes aside, add the asparagus and salmon, and season the salmon with 1 tsp dill, the garlic, salt, pepper, and lemon slices.",
+          "Roast 10 to 12 minutes until the salmon flakes easily (145 F).",
+          "Mix the yogurt with the remaining dill and a squeeze of lemon and serve on the side."
         ]
       }
     }
